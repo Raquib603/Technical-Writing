@@ -48,8 +48,8 @@ For research collaboration, project discussion, technical writing support, or re
 🔗 [Start chat on WhatsApp](https://wa.me/8801990934865)
 
 
-🌐 **Work Portfolio:**  
-[View my Upwork profile →](https://www.upwork.com/freelancers/~019d38c6b3c3247ba6?s=1017484851352698996)
+🌐 **Work Profile:**  
+[View my Upwork profile](https://www.upwork.com/freelancers/~019d38c6b3c3247ba6?s=1017484851352698996)
 
 
 ---
