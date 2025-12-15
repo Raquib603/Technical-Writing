@@ -1,8 +1,10 @@
-# Raquib — Research & Technical Writing
+# Academic & Technical Writer | Research, Journal & Reports
 
-Clear explanation is what turns models, simulations, and data into meaningful research.  
-I specialize in academic and technical documentation with a strong focus on methodology, analytical rigor, and publication standards.
+~Clear explanation is what turns models, simulations and data into meaningful research~
 
+My work covers research papers, projects, technical reports, simulation studies, literature reviews, journal and analytical documentations. Ensure proper citations and writing format for the targeted publications or area. I also help reviewing existing-recent works in related fields. This Includes books, research papers and open-source materials.
+
+Strong background in statistics, simulations and quantitative analysis. Expert in machine learning & LLM models. Specialized in creating well-researched documents for journals, publications, research and academic writings. Clear focus on accurate formatting, methodology, technical accuracy and academic integrity.
 ---
 
 ## ✍️ Research, Documentation & Review
