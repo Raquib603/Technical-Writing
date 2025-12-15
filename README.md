@@ -4,7 +4,7 @@
 
 My work covers **research papers, technical projects, simulation studies, literature reviews, journal articles, and analytical documentation**, with a strong emphasis on **proper citation practices** and **writing formats aligned with the targeted publication or academic domain**. I also assist in **reviewing and synthesizing recent work** across related fields, including **academic books, peer-reviewed research papers, and open-source materials**.
 
-**Strong background in statistics, simulations, and quantitative analysis** I have expertise in **machine learning and LLM-based models**. Specialized in creating **well-researched, publication-ready documents** for journals, research projects or academic writings. Always clear focus on **accurate formatting, sound methodology, technical precision and academic integrity**.
+**Strong background in statistics, simulations, and quantitative analysis.** I have expertise in **machine learning and LLM-based models**. Specialized in creating **well-researched, publication-ready documents** for journals, research projects or academic writings. Always clear focus on **accurate formatting, sound methodology, technical precision and academic integrity**.
 
 ---
 
