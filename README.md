@@ -1,10 +1,11 @@
 # Academic & Technical Writer | Research, Journal & Reports
 
-~Clear explanation is what turns models, simulations and data into meaningful research~
+*Clear explanation is what turns models, simulations, and data into meaningful research.*
 
-My work covers research papers, projects, technical reports, simulation studies, literature reviews, journal and analytical documentations. Ensure proper citations and writing format for the targeted publications or area. I also help reviewing existing-recent works in related fields. This Includes books, research papers and open-source materials.
+My work covers **research papers, technical projects, simulation studies, literature reviews, journal articles, and analytical documentation**, with a strong emphasis on **proper citation practices** and **writing formats aligned with the targeted publication or academic domain**. I also assist in **reviewing and synthesizing recent work** across related fields, including **academic books, peer-reviewed research papers, and open-source materials**.
 
-Strong background in statistics, simulations and quantitative analysis. Expert in machine learning & LLM models. Specialized in creating well-researched documents for journals, publications, research and academic writings. Clear focus on accurate formatting, methodology, technical accuracy and academic integrity.
+I bring a **strong background in statistics, simulations, and quantitative analysis**, with expertise in **machine learning and LLM-based models**. I specialize in creating **well-researched, publication-ready documents** for journals, research projects, and academic writing, with a clear focus on **accurate formatting, sound methodology, technical precision, and academic integrity**.
+
 ---
 
 ## ✍️ Research, Documentation & Review
@@ -46,8 +47,8 @@ For research collaboration, project discussion, technical writing support, or re
 📱 **WhatsApp:** Scan the QR code below  
 
 <p align="center">
-  <img src="Assets/Technical Writing (Raquib Hassan).jpg" width="180">
-  <img src="Assets/Contact.jpeg" width="180">
+  <img src="assets/technical_writing_raquib_hassan.jpg" width="180">
+  <img src="assets/contact.jpeg" width="180">
 </p>
 
 🌐 **Profile / Portfolio:** workprofile.com  
@@ -56,4 +57,5 @@ For research collaboration, project discussion, technical writing support, or re
 
 ## 📄 License
 This repository is intended for professional and academic presentation.  
-Content may not be reused without permission.
+Content may not be reused without prior permission.
+
