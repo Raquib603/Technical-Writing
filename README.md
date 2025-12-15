@@ -46,7 +46,7 @@ For research collaboration, project discussion, technical writing support, or re
 📧 **Email:** raquib.hassan33@gmail.com  
 <p align="center">
   <a href="https://wa.me/8801990934865">
-    <img src="assets/whats.jpg" width="180">
+    <img src="Assets/whats.jpg" width="180">
   </a>
 </p>
 
