@@ -47,8 +47,8 @@ For research collaboration, project discussion, technical writing support, or re
 📱 **WhatsApp:** Scan the QR code below  
 
 <p align="center">
-  <img src="assets/technical_writing_raquib_hassan.jpg" width="180">
-  <img src="assets/contact.jpeg" width="180">
+  <img src="Assets/technical_writing_raquib_hassan.jpg" width="180">
+  <img src="Assets/contact.jpeg" width="180">
 </p>
 
 🌐 **Profile / Portfolio:** workprofile.com  
