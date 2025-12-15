@@ -47,7 +47,7 @@ For research collaboration, project discussion, technical writing support, or re
 📱 **WhatsApp:** Scan the QR code below  
 
 <p align="center">
-  <img src="Assets/whats.jpg" width="180">
+  <img src="Assets/whats.jpeg" width="180">
 </p>
 
 🌐 **Profile / Portfolio:** workprofile.com  
