@@ -44,11 +44,9 @@ I bring a hands-on understanding of the full research lifecycle — from **metho
 For research collaboration, project discussion, technical writing support, or review requests:
 
 📧 **Email:** raquib.hassan33@gmail.com  
-<p align="center">
-  <a href="https://wa.me/8801990934865">
-    <img src="Assets/whats.jpeg" width="180">
-  </a>
-</p>
+📱 **WhatsApp:** 01990934865  
+🔗 [Start chat on WhatsApp](https://wa.me/8801990934865)
+
 
 
 🌐 **Profile / Portfolio:** workprofile.com  
